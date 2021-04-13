@@ -300,7 +300,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:"C:/Users/Paul/Documents/GitHub/Minigame/Library/PackageCache/com.unity.burst@1.4.1/Unity.Burst.Unsafe.dll"
+-r:"C:/Users/Paul/Documents/GitHub/SWArk-MiniGame/SWArk-Minigame/Minigame/Library/PackageCache/com.unity.burst@1.4.1/Unity.Burst.Unsafe.dll"
 -r:"Library/Bee/artifacts/500b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/500b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.probuilder@5.0.1/External/KdTree/KdTreeLib/AssemblyInfo.cs"

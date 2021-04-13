@@ -3,7 +3,7 @@
   "Assemblies": [
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2021-04-13T12:39:05.126Z"
+      "LastWriteTime": "2021-04-13T14:06:28.888Z"
     },
     {
       "FullName": "netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
@@ -19,7 +19,7 @@
     },
     {
       "FullName": "Unity.Animation.Rigging.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2021-04-13T12:39:06.936Z"
+      "LastWriteTime": "2021-04-13T14:06:30.696Z"
     },
     {
       "FullName": "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -31,14 +31,14 @@
     },
     {
       "FullName": "Unity.Animation.Rigging, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2021-04-13T12:39:06.191Z"
+      "LastWriteTime": "2021-04-13T14:06:30.272Z"
     }
   ],
   "Functions": [
     {
       "FullName": "System.Int32 Unity.Burst.Intrinsics.X86::DoGetCSRTrampoline()",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "fb77156e1b9af90ce9f7c3ca5643e526",
+      "ModuleHash": "aa2569aebf3205f774fc8dc672a5d556",
       "LinkName": "CDCA4A5193BE5947",
       "AssemblyDependencyIndices": [
         0,
@@ -49,7 +49,7 @@
     {
       "FullName": "System.Void Unity.Burst.Intrinsics.X86::DoSetCSRTrampoline(System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "de6ce1e5c44bac8b37a931cc765c8863",
+      "ModuleHash": "61f713248516d0f7e8f6253eee4b7268",
       "LinkName": "801E9A000BB37B05",
       "AssemblyDependencyIndices": [
         0,
@@ -58,10 +58,10 @@
       ]
     },
     {
-      "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.MultiAimInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.MultiParentInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "77008cf463c490e6cf13c7fc6f45e7ea",
-      "LinkName": "20FD37D8DECBDFA6",
+      "ModuleHash": "675c996a69adc6fc60e8a49db8518c47",
+      "LinkName": "C7F3D860D6E34BD2",
       "AssemblyDependencyIndices": [
         3,
         4,
@@ -73,10 +73,10 @@
       ]
     },
     {
-      "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.MultiParentInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.MultiAimInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "49e775aff4e93b639bb649c95ff9835a",
-      "LinkName": "C7F3D860D6E34BD2",
+      "ModuleHash": "1c8695cc6ff656440a6b59100bd9e850",
+      "LinkName": "20FD37D8DECBDFA6",
       "AssemblyDependencyIndices": [
         3,
         4,
@@ -90,7 +90,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.MultiPositionInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "200b2ced42d08377aa26721cc2c7f90b",
+      "ModuleHash": "63a12e8cbcd5de124beb885440cdbbdf",
       "LinkName": "CA8FB46B9E70B3A2",
       "AssemblyDependencyIndices": [
         3,
@@ -105,7 +105,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.MultiReferentialInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "2251b724e464e607bfa43dafa2fc0fdc",
+      "ModuleHash": "d3e76c29cd950c7c881bd6f265e24836",
       "LinkName": "7F8C4305FFA0C3EF",
       "AssemblyDependencyIndices": [
         3,
@@ -120,7 +120,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.MultiRotationInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "d135a00fec6b4567e77d4d6143d74a34",
+      "ModuleHash": "6da36d9bad40ae4c67b0a5dda09ef51d",
       "LinkName": "511E703D342EE196",
       "AssemblyDependencyIndices": [
         3,
@@ -135,7 +135,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.TwistChainInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "bc01727d36f255e269af79800755aa5d",
+      "ModuleHash": "35d1f09bce9866cbec679bc4d2c3cc8f",
       "LinkName": "D7890560FD1F87A6",
       "AssemblyDependencyIndices": [
         3,
@@ -150,7 +150,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEditor.Animations.Rigging.TwoBoneIKInverseConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "3cb73eea61e2301fa18a7bd5c2d5cb81",
+      "ModuleHash": "f7dac12fa119809a2d51b2effed9c9c6",
       "LinkName": "92EA52C8350EF75D",
       "AssemblyDependencyIndices": [
         3,
@@ -165,7 +165,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.BlendConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "6269020a51ce4c4d2ded13b2bca197ee",
+      "ModuleHash": "76cd734c01b64f650ba6a3705261f8a7",
       "LinkName": "EEB605D5BF4115FD",
       "AssemblyDependencyIndices": [
         3,
@@ -179,7 +179,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.ChainIKConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "24f035ff4aa64fdef94046d48d7e1c33",
+      "ModuleHash": "68c8c3687a0ff3e2e2cc8b72d9a1147a",
       "LinkName": "D17F1E41F0981F8B",
       "AssemblyDependencyIndices": [
         3,
@@ -193,7 +193,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.DampedTransformJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "bf4bf784418ec9a10a74a175dfe4c44f",
+      "ModuleHash": "a16647ce3bf3c88f8358ef6dac00f433",
       "LinkName": "2D06AE12499008BC",
       "AssemblyDependencyIndices": [
         3,
@@ -207,7 +207,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.MultiAimConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "66873f2e4c4dc40c305f02765ace8de8",
+      "ModuleHash": "c9ab754aeb8f7d875dd491a97e51753e",
       "LinkName": "FCB60251D6B64A75",
       "AssemblyDependencyIndices": [
         3,
@@ -221,7 +221,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.MultiParentConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "8beb6cb9bd79fe8d80c20663c26cd3b3",
+      "ModuleHash": "f0f617c626172ee8a7928de2b0c2ddc2",
       "LinkName": "3F33EE8471F5D9F8",
       "AssemblyDependencyIndices": [
         3,
@@ -235,7 +235,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.MultiPositionConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "5ea97dbb273e25d37bd87bca63b5b233",
+      "ModuleHash": "845885fff83e0af4628adb7fa00254dc",
       "LinkName": "258F782D929162D0",
       "AssemblyDependencyIndices": [
         3,
@@ -249,7 +249,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.MultiReferentialConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "0ac7956203ac2dedef425635071c91ae",
+      "ModuleHash": "6a5242a0560b33c1287a4c976e5c6e2d",
       "LinkName": "95D969D039EC936C",
       "AssemblyDependencyIndices": [
         3,
@@ -263,7 +263,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.MultiRotationConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "8c501849e2a0300dc4fc3f58a4483ddb",
+      "ModuleHash": "6b4de265ade0855e0f312d576f6f0a86",
       "LinkName": "2C7E957D919E5557",
       "AssemblyDependencyIndices": [
         3,
@@ -277,7 +277,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.OverrideTransformJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "e3c5aa71777d77d755d6ca562c1cad0a",
+      "ModuleHash": "5f5b73d6cd072a105b10899ebdf14b3a",
       "LinkName": "5A1B018114FFE984",
       "AssemblyDependencyIndices": [
         3,
@@ -291,7 +291,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.RigSyncSceneToStreamJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "9dcf3012a7ebbe010f0a939f84238280",
+      "ModuleHash": "ee6f168859e0016108443d9f4f2f7d90",
       "LinkName": "BC91ACAA17E251EE",
       "AssemblyDependencyIndices": [
         3,
@@ -305,7 +305,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.TwistChainConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "b90fd8ed06497264ed29c32cc98fe01d",
+      "ModuleHash": "cee7a2a66362df6fd75712ada64e0b23",
       "LinkName": "046FC269A5EA2ADB",
       "AssemblyDependencyIndices": [
         3,
@@ -319,7 +319,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.TwistCorrectionJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "a9faa9bc73cedb3212de53382bfbae8e",
+      "ModuleHash": "7bfa546b9eba4addbe34657d8b9b9971",
       "LinkName": "93BA6CA7C365CF00",
       "AssemblyDependencyIndices": [
         3,
@@ -333,7 +333,7 @@
     {
       "FullName": "System.Void UnityEngine.Animations.ProcessAnimationJobStruct`1<UnityEngine.Animations.Rigging.TwoBoneIKConstraintJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "fb100e67a598e347e54d6b64477b3262",
+      "ModuleHash": "0e8fec86e0c211d5f265de2cf78945bc",
       "LinkName": "9F5ECC376B551731",
       "AssemblyDependencyIndices": [
         3,

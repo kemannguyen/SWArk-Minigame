@@ -305,7 +305,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:"C:/Users/Paul/Documents/GitHub/Minigame/Library/PackageCache/com.unity.burst@1.4.1/Unity.Burst.Unsafe.dll"
+-r:"C:/Users/Paul/Documents/GitHub/SWArk-MiniGame/SWArk-Minigame/Minigame/Library/PackageCache/com.unity.burst@1.4.1/Unity.Burst.Unsafe.dll"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/AxisEventData.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/BaseEventData.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/PointerEventData.cs"
